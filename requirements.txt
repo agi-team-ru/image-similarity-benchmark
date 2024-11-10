@@ -1,0 +1,11 @@
+pip
+ipykernel
+httpx
+fastapi
+pydantic
+uvicorn
+scikit-learn
+pandas
+tabulate
+similarities
+torch
